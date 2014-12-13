@@ -80,8 +80,7 @@
         <name>Layout</name>
     </types>
     <types>
-        <members>LookupRollupSummariesFull</members>
-        <members>LookupRollupSummariesReadOnly</members>
+        <members>*</members>
         <name>PermissionSet</name>
     </types>
     <types>
